@@ -1,2 +1,0 @@
-# ProjectWaifu
-Waifu-Chan
